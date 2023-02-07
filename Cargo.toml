@@ -1,0 +1,9 @@
+[package]
+name = "imaging"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.69"
+image = "0.24.5"
+skia-safe = "0.58.0"
